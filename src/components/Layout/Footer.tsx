@@ -47,7 +47,7 @@ export default function Footer() {
             </li>
             <li className="flex items-center gap-2">
               <Mail size={16} className="text-biomed-blue-light" />
-              <span>contato@biomedintegra.com.br</span>
+              <span>contato@clinicabiomedintegra.com.br</span>
             </li>
           </ul>
         </div>

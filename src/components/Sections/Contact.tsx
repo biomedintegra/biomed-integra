@@ -42,7 +42,7 @@ export default function Contact() {
                     E-mail
                   </div>
                   <div className="text-xl font-bold text-sm md:text-xl">
-                    contato@biomedintegra.com.br
+                    contato@clinicabiomedintegra.com.br
                   </div>
                 </div>
               </div>
