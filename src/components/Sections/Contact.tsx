@@ -67,7 +67,7 @@ export default function Contact() {
         {/* Map Embed Simulation */}
         <div className="h-80 w-full rounded-4xl overflow-hidden grayscale contrast-125 opacity-70 hover:grayscale-0 hover:opacity-100 transition-all duration-700">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.3274818701148!2d-45.90609112357333!3d-23.231167279028128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4a9dfa899a71%3A0x7c13a8916a7f66a6!2sR.%20Palmares%2C%20300%20-%20sala%2003%20-%20Parque%20Industrial%2C%20S%C3%A3o%20Jos%C3%A9%20dos%20Campos%20-%20SP%2C%2012235-620!5e0!3m2!1spt-BR!2sbr!4v1777143765497!5m2!1spt-BR!2sbr"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3666.3274818701134!2d-45.906091123644885!3d-23.231167279028167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4b330a514d4f%3A0xa6a3255f323318eb!2sCl%C3%ADnica%20Biomed%20Integra%20%7C%20Diabetes%20%7C%20Dores%20Cr%C3%B4nicas%20%7C%20Drenagem%20Linf%C3%A1tica%20%7C%20Detox%20Corporal%20%7C%20Esculpe%20Detox!5e0!3m2!1spt-BR!2sbr!4v1777861642966!5m2!1spt-BR!2sbr"
             width="100%"
             height="450"
             style={{ border: 0 }}
