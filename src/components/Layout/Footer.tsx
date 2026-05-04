@@ -63,7 +63,7 @@ export default function Footer() {
       </div>
       
       <div className="max-w-7xl mx-auto mt-16 pt-8 border-t border-white/10 text-center text-xs opacity-40">
-        <p>&copy; {new Date().getFullYear()} Biomed Integra. Todos os direitos reservados. Desenvolvido com foco em sua saúde.</p>
+        <p>&copy; {new Date().getFullYear()} Cliníca Biomed Integra. Todos os direitos reservados. Desenvolvido com foco em sua saúde.</p>
       </div>
     </footer>
   );

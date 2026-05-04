@@ -18,7 +18,7 @@ export default function SEO({
     "alternateName": "Clínica Biomed Integra",
     "description": description,
     "url": canonical,
-    "logo": "https://biomedintegra.com.br/logo.png",
+    "logo": "https://clinicabiomedintegra.com.br/logo.png",
     "address": {
       "@type": "PostalAddress",
       "streetAddress": "Rua Palmares, nº 300, Sala 03",
