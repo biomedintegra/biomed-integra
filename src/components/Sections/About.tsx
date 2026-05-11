@@ -50,7 +50,7 @@ export default function About() {
             <span className="text-biomed-blue-light text-3xl md:text-5xl italic font-normal">regenera o bem-estar.</span>
           </h2>
           <p className="text-slate-600 mb-10 leading-relaxed text-xl">
-            A Biomed Integra chega a São José dos Campos em 2026 com um propósito claro: utilizar o que há de mais moderno na biomedicina integrativa para interromper ciclos de dor e desequilíbrio metabólico.
+            A Clínica Biomed Integra chega a São José dos Campos em 2026 com um propósito claro: utilizar o que há de mais moderno na biomedicina integrativa para interromper ciclos de dor e desequilíbrio metabólico.
           </p>
 
           <div className="grid grid-cols-1 gap-6">

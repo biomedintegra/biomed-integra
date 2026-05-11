@@ -30,7 +30,7 @@ export default function Hero() {
           </h1>
           
           <p className="text-xl text-slate-600 mb-10 max-w-lg leading-relaxed font-medium">
-            A Biomed Integra chega a São José dos Campos para utilizar o que há de mais moderno na biomedicina integrativa e interromper ciclos de dor e desequilíbrio metabólico.
+            A Clínica Biomed Integra chega a São José dos Campos para utilizar o que há de mais moderno na biomedicina integrativa e interromper ciclos de dor e desequilíbrio metabólico.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
