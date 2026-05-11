@@ -8,13 +8,13 @@ interface SEOProps {
 
 export default function SEO({ 
   title = "Clínica Biomed Integra | Remissão do Diabetes Tipo 2 | Práticas Integrativas em São José dos Campos", 
-  description = "Recupere sua qualidade de vida com controle da glicemia, combate à inflamação e redução de dores crônicas na Clínica Biomed Integra no Parque Industrial, SJC.",
+  description = "Recupere sua qualidade de vida com controle da glicemia, Diabetes Tipo 2 e Pré-Diabetes, combate à inflamação e redução de dores crônicas na Clínica Biomed Integra no Parque Industrial, SJC.",
   canonical = "https://clinicabiomedintegra.com.br"
 }: SEOProps) {
   const schemaMarkup = {
     "@context": "https://schema.org",
     "@type": "MedicalClinic",
-    "name": "Biomed Integra",
+    "name": "Clínica Biomed Integra",
     "alternateName": "Clínica Biomed Integra",
     "description": description,
     "url": canonical,
