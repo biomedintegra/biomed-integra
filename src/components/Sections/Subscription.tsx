@@ -17,7 +17,7 @@ export default function Subscription() {
             className="inline-flex items-center gap-2 bg-biomed-blue-dark text-white px-4 py-2 rounded-full mb-6"
           >
             <Star size={16} className="fill-white" />
-            <span className="text-xs font-bold uppercase tracking-widest">Exclusividade Biomed Integra</span>
+            <span className="text-xs font-bold uppercase tracking-widest">Exclusividade Clínica Biomed Integra</span>
           </motion.div>
           
           <h2 className="text-4xl md:text-6xl font-bold mb-6 tracking-tight text-biomed-blue-dark">
