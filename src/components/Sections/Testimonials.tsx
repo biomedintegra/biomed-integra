@@ -6,7 +6,7 @@ const testimonials = [
     name: "Ana Carla Silveira",
     role: "Administradora",
     text: "Sofri com dores na coluna por anos. Na Biomed Integra, encontrei um atendimento humano e técnicas que realmente funcionaram. Hoje vivo sem dor e com muito mais disposição.",
-    avatar: "https://i.pravatar.cc/100?u=1"
+    avatar: "https://lh3.googleusercontent.com/a-/ALV-UjXAMChZj3sPMQAYWZmlUxDgYHPB0hFVJndDJLQnHrYngJLM3jRmhQ=w36-h36-p-rp-mo-br100"
   },
   {
     name: "Roberto Mendes",
