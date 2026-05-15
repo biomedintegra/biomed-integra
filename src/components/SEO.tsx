@@ -4,12 +4,14 @@ interface SEOProps {
   title?: string;
   description?: string;
   canonical?: string;
+  imgpreview?: string;
 }
 
 export default function SEO({ 
   title = "Clínica Biomed Integra | Remissão do Diabetes Tipo 2 | Práticas Integrativas em São José dos Campos", 
   description = "Recupere sua qualidade de vida com controle da glicemia, Diabetes Tipo 2 e Pré-Diabetes, combate à inflamação e redução de dores crônicas na Clínica Biomed Integra no Parque Industrial, SJC.",
-  canonical = "https://clinicabiomedintegra.com.br"
+  canonical = "https://clinicabiomedintegra.com.br",
+  imgpreview = "https://clinicabiomedintegra.com.br/preview-biomed-integra-2.png"
 }: SEOProps) {
   const schemaMarkup = {
     "@context": "https://schema.org",
@@ -17,7 +19,7 @@ export default function SEO({
     "name": "Clínica Biomed Integra",
     "alternateName": "Clínica Biomed Integra",
     "description": description,
-    "url": canonical,
+    "url": canonical,    
     "logo": "https://clinicabiomedintegra.com.br/logo.png",
     "address": {
       "@type": "PostalAddress",
@@ -66,7 +68,7 @@ export default function SEO({
       <meta property="og:description" content={description} />
       <meta property="og:url" content={canonical} />
 
-      <meta property="og:image" content="preview-biomed-integra-2.png" />
+      <meta property="og:image" content={imgpreview} />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <meta property="og:image:type" content="image/jpeg" />
