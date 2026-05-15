@@ -65,6 +65,14 @@ export default function SEO({
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
       <meta property="og:url" content={canonical} />
+
+      <meta property="og:image" content="../lib/assets/preview-biomed-integra-2.png" />
+      <meta property="og:image:width" content="1200" />
+      <meta property="og:image:height" content="630" />
+      <meta property="og:image:type" content="image/jpeg" />
+
+      <meta property="og:site_name" content="Clínica Biomed Integra" />
+      <meta property="og:locale" content="pt_BR" />
       
       {/* Schema.org */}
       <script type="application/ld+json">
