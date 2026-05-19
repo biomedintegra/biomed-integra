@@ -38,7 +38,7 @@ export default function Hero() {
               href="https://wa.me/5512988220969" 
               className="bg-biomed-blue-dark text-white text-center px-10 py-6 rounded-2xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all flex items-center justify-center gap-3"
             >
-              Iniciar Recuperação
+              Iniciar Autocuidado
               <ChevronRight size={20} />
             </a>
           </div>
