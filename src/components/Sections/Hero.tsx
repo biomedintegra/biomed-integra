@@ -7,7 +7,7 @@ const values = [
   },
   {
     icon: ShieldCheck,
-    title: "Expertise Local",
+    title: "Expertise Cientifica",
   },
   {
     icon: Users,

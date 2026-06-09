@@ -9,7 +9,7 @@ const values = [
   },
   {
     icon: ShieldCheck,
-    title: "Expertise Local",
+    title: "Expertise Cientifica",
     description: "Referência em São José dos Campos com uma equipe biomédica altamente qualificada e focada em resultados."
   },
   {
