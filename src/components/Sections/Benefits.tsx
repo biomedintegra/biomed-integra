@@ -4,7 +4,7 @@ import { Zap, Target, Activity } from 'lucide-react';
 const impacts = [
   {
     title: "Alívio Imediato",
-    desc: "Redução significativa de marcadores inflamatórios e alívio de dores crônicas desde a primeira fase do protocolo.",
+    desc: "Redução significativa de marcadores inflamatórios e alívio de dores crônicas desde a primeira fase do acompanhamento.",
     icon: Zap
   },
   {

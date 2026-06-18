@@ -78,7 +78,7 @@ export default function DiabetesRemission() {
               href="https://wa.me/5512988220969?text=Quero%20saber%20mais%20sobre%20o%20protocolo%20de%20remissão%20de%20diabetes"
               className="inline-flex items-center gap-3 bg-biomed-blue-dark text-white px-10 py-5 rounded-2xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all"
             >
-              Consultar Protocolo
+              Agendar Consulta
               <ChevronRight size={20} />
             </a>
           </motion.div>

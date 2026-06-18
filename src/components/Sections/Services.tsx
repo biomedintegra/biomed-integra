@@ -97,7 +97,7 @@ export default function Services() {
                 href={`https://wa.me/5512988220969?text=Gostaria%20de%20saber%20mais%20sobre%20${encodeURIComponent(cat.title)}`}
                 className="inline-flex items-center gap-2 text-biomed-blue-light font-bold text-lg hover:text-white transition-colors group/link"
               >
-                Detalhes do protocolo
+                Quero mais Detalhes
                 <Activity size={18} className="group-hover/link:animate-pulse" />
               </a>
             </motion.div>
