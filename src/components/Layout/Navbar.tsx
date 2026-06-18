@@ -56,7 +56,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a 
-            href="https://wa.me/5512988220969?text=Quero%20%marcar%20minha%20consulta"            
+            href="https://wa.me/5512988220969?text=Quero%20%marcar%20minha%20consulta"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-biomed-blue-dark text-white px-5 py-2.5 rounded-full text-sm font-semibold hover:bg-biomed-blue-dark/90 transition-all shadow-sm flex items-center gap-2"
