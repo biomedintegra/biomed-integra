@@ -46,7 +46,7 @@ export default function DiabetesRemission() {
             </h2>
             
             <p className="text-xl text-slate-600 mb-10 leading-relaxed">
-              A Clínica Biomed Integra oferece protocolos exclusivos para que você alcance a remissão do Diabetes Tipo 2 de forma natural. Com muito aprendizado, apoio técnico e científico, ajudamos você a retomar o controle da sua vida.
+              A Clínica Biomed Integra oferece acompanhamento exclusivo para que você alcance a remissão do Diabetes Tipo 2 de forma natural. Com muito aprendizado, apoio técnico e científico, ajudamos você a retomar o controle da sua vida.
             </p>
 
             <div className="grid sm:grid-cols-2 gap-8 mb-12">
@@ -70,7 +70,7 @@ export default function DiabetesRemission() {
                 ))}
               </div>
               <p className="text-sm font-medium text-slate-700">
-                <span className="font-bold text-biomed-blue-dark">Dezenas de pacientes</span> já validaram nossos protocolos e transformaram suas vidas.
+                <span className="font-bold text-biomed-blue-dark">Dezenas de pacientes</span> já validaram nossos e transformaram suas vidas.
               </p>
             </div>
 
