@@ -37,7 +37,7 @@ export default function DiabetesRemission() {
           >
             <div className="inline-flex items-center gap-2 bg-biomed-blue-light/10 text-biomed-blue-muted px-4 py-2 rounded-full mb-6">
               <span className="flex h-2 w-2 rounded-full bg-biomed-blue-light animate-pulse" />
-              <span className="text-xs font-bold uppercase tracking-widest">Protocolo Exclusivo</span>
+              <span className="text-xs font-bold uppercase tracking-widest">Acompanhamento Exclusivo</span>
             </div>
             
             <h2 className="text-4xl md:text-5xl font-display font-bold mb-8 leading-[1.1] text-biomed-blue-dark">
@@ -75,7 +75,7 @@ export default function DiabetesRemission() {
             </div>
 
             <a 
-              href="https://wa.me/5512988220969?text=Quero%20saber%20mais%20sobre%20o%20protocolo%20de%20remissão%20de%20diabetes"
+              href="https://wa.me/5512988220969?text=Quero%20saber%20mais%20sobre%20o%a%20remissão%20de%20diabetes"
               className="inline-flex items-center gap-3 bg-biomed-blue-dark text-white px-10 py-5 rounded-2xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all"
             >
               Agendar Consulta
