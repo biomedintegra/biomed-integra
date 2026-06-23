@@ -35,7 +35,7 @@ export default function Hero() {
           
           <div className="flex flex-col sm:flex-row gap-4 mb-12">
             <a 
-              href="https://wa.me/5512988220969" 
+              href="https://wa.me/5512988220969?text=Oi%20venho%20do%20site%20e%20%20gostaria%20de%20marcar%20uma%20consulta"
               className="bg-biomed-blue-dark text-white text-center px-10 py-6 rounded-2xl font-bold text-lg hover:shadow-2xl hover:scale-[1.02] transition-all flex items-center justify-center gap-3"
             >
               Iniciar Autocuidado
