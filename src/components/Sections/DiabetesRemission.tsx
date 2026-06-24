@@ -5,7 +5,7 @@ const pillars = [
   {
     icon: Microscope,
     title: "Tratamento Científico",
-    description: "Acompamento e métodos validados cientificamente para restaurar a sensibilidade à insulina e desinflamar o organismo."
+    description: "Acompanhamento e métodos validados cientificamente para restaurar a sensibilidade à insulina e desinflamar o organismo."
   },
   {
     icon: ShieldCheck,
