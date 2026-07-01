@@ -94,7 +94,7 @@ export default function Services() {
               </ul>
               
               <a 
-                href={`https://wa.me/5512988220969?text=Gostaria%20de%20saber%20mais%20sobre%20${encodeURIComponent(cat.title)}`}
+                href={`https://wa.me/5512988220969?text=Olá,%20venho%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20${encodeURIComponent(cat.title)}`}
                 className="inline-flex items-center gap-2 text-biomed-blue-light font-bold text-lg hover:text-white transition-colors group/link"
               >
                 Quero mais Detalhes

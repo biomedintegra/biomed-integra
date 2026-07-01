@@ -2,7 +2,7 @@ import iconWhatsApp from '../../lib/assets/icon-whatsapp.svg';
 
 export default function FloatingWhatsApp() {
   const whatsappUrl =
-    'https://wa.me/5512988220969?text=Olá,%20vim%20pelo%20site%20e%20gostaria%20de%20saber%20mais';
+    'https://wa.me/5512988220969?text=Olá,%venho%20pelo%20site%20e%20gostaria%20de%20saber%20mais.%20Como%20posso%20agendar%20uma%20consulta?';
 
   return (
     <a

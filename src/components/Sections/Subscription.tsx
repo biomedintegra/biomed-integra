@@ -79,7 +79,7 @@ export default function Subscription() {
 
             <div className="mt-12">
               <a 
-                href="https://wa.me/5512988220969?text=Gostaria%20de%20saber%20valores%20do%20Plano%20de%20Assinatura"
+                href="https://wa.me/5512988220969?text=Olá,%20venho%20pelo%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Plano%20de%20Assinatura."
                 className="w-full py-6 bg-biomed-blue-dark text-white rounded-2xl font-bold text-xl flex items-center justify-center gap-3 hover:shadow-2xl transition-all"
               >
                 Garantir meu horário fixo
